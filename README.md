@@ -2,7 +2,8 @@
 Example of controlling an RGB LED and a monochrome LED connected to ESP32 through HomeKit.
 
 ## How to use
-Clone repo under `examples` directory of [esp-homekit-sdk](https://github.com/espressif/esp-homekit-sdk)
+Clone this repo under `examples` directory of [esp-homekit-sdk](https://github.com/espressif/esp-homekit-sdk).
+
 For the first time of flashing the firmware, use [ESP SoftAP Prov](https://apps.apple.com/us/app/esp-softap-provisioning/id1474040630) to scan the generated QR code showing in the terminal to do the Wi-Fi Provisioning.
 
 Use Home app or camera app to scan the QR code showing in the terminal to add the accessory to Home.
