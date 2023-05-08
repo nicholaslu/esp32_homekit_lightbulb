@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/CMakeFiles/bootloader
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/CMakeFiles/bootloader.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/CMakeFiles/bootloader-complete.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/uiuan/dev/esp-homekit-sdk/examples/esp32_homekit_lightbulb/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
